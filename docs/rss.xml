@@ -1,2 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://enneaa.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://enneaa.github.io</link></image><lastBuildDate>Tue, 21 May 2024 03:05:11 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://enneaa.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://enneaa.github.io</link></image><lastBuildDate>Tue, 21 May 2024 03:16:00 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>测试一下看可以正常使用吗</title><link>https://enneaa.github.io/post/ce-shi-yi-xia-kan-ke-yi-zheng-chang-shi-yong-ma.html</link><description>数字内容怎么保存。</description><guid isPermaLink="true">https://enneaa.github.io/post/ce-shi-yi-xia-kan-ke-yi-zheng-chang-shi-yong-ma.html</guid><pubDate>Tue, 21 May 2024 03:14:14 +0000</pubDate></item><item><title>可以正常发布吗</title><link>https://enneaa.github.io/post/ke-yi-zheng-chang-fa-bu-ma.html</link><description>线上服务不可靠。</description><guid isPermaLink="true">https://enneaa.github.io/post/ke-yi-zheng-chang-fa-bu-ma.html</guid><pubDate>Tue, 21 May 2024 03:13:33 +0000</pubDate></item><item><title>双链笔记中的命名空间及笔记的坐标定位</title><link>https://enneaa.github.io/post/shuang-lian-bi-ji-zhong-de-ming-ming-kong-jian-ji-bi-ji-de-zuo-biao-ding-wei.html</link><description>@ [[双向链接]] @ [[笔记的使用]] [[文稿]]&#13;
+&#13;
+### 赋予双链就是命名空间&#13;
+在笔记应用中我们输入一段平平无奇的话：&#13;
+```&#13;
+双链笔记太多了，不知道选择哪一个使用。</description><guid isPermaLink="true">https://enneaa.github.io/post/shuang-lian-bi-ji-zhong-de-ming-ming-kong-jian-ji-bi-ji-de-zuo-biao-ding-wei.html</guid><pubDate>Tue, 21 May 2024 03:08:25 +0000</pubDate></item><item><title>热刀切黄油，最趁手的手机浏览器——Via 浏览器再体验</title><link>https://enneaa.github.io/post/re-dao-qie-huang-you-%EF%BC%8C-zui-chen-shou-de-shou-ji-liu-lan-qi-%E2%80%94%E2%80%94Via%20-liu-lan-qi-zai-ti-yan.html</link><description>[[文稿]] [[Via]] [[浏览器]] [[2023-09-13]]&#13;
+&#13;
+![[P30914-243558.jpg]]&#13;
+&#13;
+### 前言&#13;
+虽然说现在很多内容都困在 APP 里面，但 Web 生态依然能大大的扩展手机的应用场景，我大部分时间刷少数派用的都是手机浏览器，Web 浏览器是我在移动端最常用的工具类软件，也是应用开发的热点，各式各样的浏览器琳琅满目。</description><guid isPermaLink="true">https://enneaa.github.io/post/re-dao-qie-huang-you-%EF%BC%8C-zui-chen-shou-de-shou-ji-liu-lan-qi-%E2%80%94%E2%80%94Via%20-liu-lan-qi-zai-ti-yan.html</guid><pubDate>Tue, 21 May 2024 03:07:18 +0000</pubDate></item><item><title>可能是目前最方便的个人博客搭建方法——Gmeek 博客框架 - 少数派</title><link>https://enneaa.github.io/post/ke-neng-shi-mu-qian-zui-fang-bian-de-ge-ren-bo-ke-da-jian-fang-fa-%E2%80%94%E2%80%94Gmeek%20-bo-ke-kuang-jia-%20-%20-shao-shu-pai.html</link><description>---&#13;
+作者: breathiness&#13;
+创建日期: 2024-05-21&#13;
+链接: &#13;
+  - https://sspai.com/post/88950&#13;
+---&#13;
+[[2024-05-21]] [[参考]] #标签 #测试&#13;
+&#13;
+## 0 杂谈&#13;
+&#13;
+个人博客（Weblog 或 blog）是一种在网络上发布的个人日记或出版物，用以分享个人的想法、经验、知识、评论等。</description><guid isPermaLink="true">https://enneaa.github.io/post/ke-neng-shi-mu-qian-zui-fang-bian-de-ge-ren-bo-ke-da-jian-fang-fa-%E2%80%94%E2%80%94Gmeek%20-bo-ke-kuang-jia-%20-%20-shao-shu-pai.html</guid><pubDate>Tue, 21 May 2024 03:04:45 +0000</pubDate></item></channel></rss>
